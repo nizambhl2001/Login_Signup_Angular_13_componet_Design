@@ -1,4 +1,4 @@
-# Login_Signup_Angular_13_componet_Design
+# Login_Signup_Angular_13_component_Design
 ## Login Component View 
 ![Screenshot (21)](https://github.com/nizambhl2001/Login_Signup_Angular_13_componet_Design/assets/112401451/bcdfd35e-5b71-4987-a962-5301f4c6a182)
 ## Sign UP Component View 
